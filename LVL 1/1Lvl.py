@@ -178,4 +178,5 @@ while True:
 print("\nAventura ta s-a incheiat! Multumim ca ai jucat! \n")
 print("Inventarul tau:", inventory)
 print("Sanatatea ta ramane:", health)
-# Aici se termina aventura, poti sa adaugi mai multe locatii sau actiuni daca doresti
+# Aici se termina aventura, poti sa adaugi mai multe locatii sau actiuni daca dorestiprint("Armura ta este:", armor)
+print("Locatia ta curenta este:", current_location)
